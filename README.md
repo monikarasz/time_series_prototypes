@@ -1,1 +1,1 @@
-# time_series_prototypes
+# TIME-SERIES PROTOTYPES
